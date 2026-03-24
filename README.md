@@ -1,2 +1,2 @@
-# drift-apps-files
-Release builds for Drift Apps files
+# quizlok-installer
+Release builds for Quizlok desktop app
