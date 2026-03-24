@@ -1,0 +1,11 @@
+{
+  "version": "1.0.4",
+  "notes": "Release v1.0.4",
+  "pub_date": "2026-03-24T08:00:25.085Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/edsel77/quizlok-installer/releases/download/quizlok-v1.0.4/Quizlok_1.0.4_x64-setup.exe"
+    }
+  }
+}
