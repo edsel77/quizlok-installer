@@ -1,10 +1,10 @@
 {
   "version": "1.0.12",
   "notes": "Release v1.0.12",
-  "pub_date": "2026-03-25T04:38:16.016Z",
+  "pub_date": "2026-03-25T07:23:57.315Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcmIwbFRmbkU3a0JkaHpGWU9xenAvSGdKUW5sTFhtMVNaaVZGUmJKb3NqUExJTjNrWk9hMDluTnRkeXMzUXBlMnNrNFAxYng5d1BVMkhhODIwSEJFTzlXeGFvNmp0c3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDIzNDE2CWZpbGU6UXVpemxva18xLjAuMTJfeDY0LXNldHVwLmV4ZQp3WVE5NGxUT3NJZ3FqcHFkZWN0eXZiUkFJVU9MYkVoUzlidVVTbDN0Vi9rRTZOWFdtdm1nUW95Ym4yNndxZkplczhNTFlqallzVnlYMzFzYWkrL3NCQT09Cg==",
       "url": "https://github.com/edsel77/quizlok-installer/releases/download/quizlok-v1.0.12/Quizlok_1.0.12_x64-setup.exe"
     }
   }
