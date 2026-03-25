@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "Release v1.0.11",
-  "pub_date": "2026-03-25T03:46:17.485Z",
+  "version": "1.0.12",
+  "notes": "Release v1.0.12",
+  "pub_date": "2026-03-25T04:38:16.016Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/edsel77/quizlok-installer/releases/download/quizlok-v1.0.11/Quizlok_1.0.11_x64-setup.exe"
+      "url": "https://github.com/edsel77/quizlok-installer/releases/download/quizlok-v1.0.12/Quizlok_1.0.12_x64-setup.exe"
     }
   }
 }
